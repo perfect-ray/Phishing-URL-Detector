@@ -1,4 +1,4 @@
-# PhishGuard — Phishing URL Scanner
+# PhishGuard — Phishing URL Detector
 
 A Flask web app that scores any URL as **legitimate** or **phishing**, trained on the
 [PhiUSIIL Phishing URL Dataset](https://archive.ics.uci.edu/dataset/967/phiusiil+phishing+url+dataset)
